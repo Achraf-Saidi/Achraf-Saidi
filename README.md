@@ -1,37 +1,27 @@
 # Achraf Saidi
 
-**PhD Researcher · Teaching & Research Assistant · Statistician · Machine Learning Scientist**
+PhD researcher and Teaching & Research Assistant at **UCLouvain**, within **ISBA / LIDAM**.
 
-I am a PhD researcher and Teaching & Research Assistant at **UCLouvain**, within **ISBA / LIDAM**. My work focuses on reliable predictive modelling, calibration, sequential inference and machine learning, with a strong interest in medical and time-to-event applications.
+My main research interests are **calibration, survival analysis, statistics and machine learning**. I also spend a lot of time learning about deep learning, world models, AI systems and new technologies.
 
-I also work on applied AI and technology ventures as **Co-founder & CTO at NovalisAI**.
+Alongside academia, I am **Co-founder & CTO at NovalisAI** and an associate of **Jet Things** and **Jet Next** in Algeria, where I am involved in software, AI and digital-transformation projects.
 
-## Research interests
+Over the past few years, I have worked on projects involving:
 
-- Statistical learning and machine learning
-- Predictive calibration and model reliability
-- Sequential inference and e-processes
-- Survival analysis and censoring
-- Deep learning and representation learning
-- Applied AI in medicine and industry
+- battery-storage data analysis and optimization at **Luminus**;
+- a large project-management application at **Sonatrach**;
+- NLP and language-model pipelines for structured and unstructured data;
+- medical and healthcare data analysis;
+- computer vision and deep-learning experiments;
+- software and digital tools for organizations and companies.
 
-## Selected public projects
+I keep most project repositories private, especially when the work involves industrial, academic or confidential data.
 
-- [METABRIC Breast Cancer Analytics Dashboard](https://github.com/Achraf-Saidi/METABRIC-Dashboard) — interactive clinical/genomic exploration, feature selection, dimensionality reduction and clustering.
-- [Semantic Image Segmentation](https://github.com/Achraf-Saidi/image-process-final) — supervised and self-supervised segmentation with PyTorch, representation learning and clustering.
-- [VDC Engineering MVP](https://github.com/Achraf-Saidi/VDC) — public snapshot of a Python/PyQt desktop application prototype.
+### Teaching
 
-## Beyond academia
+At UCLouvain, I contribute to teaching in **statistics** and **R programming**.
 
-- **Co-founder & CTO — NovalisAI**
-- Applied BESS optimization work at **Luminus**, including electricity and balancing-market applications
-- Designed and developed a substantial **project-management software system at Sonatrach**, Algeria’s national energy company
-- Associate involvement in **Jettings** and **JetNext**
-
-## Links
+### Links
 
 - [Personal website](https://achraf-saidi.github.io)
-- [GitHub](https://github.com/Achraf-Saidi)
 - [LinkedIn](https://be.linkedin.com/in/achraf-saidi-b141b8247)
-
-> Publications, preprints, teaching material and technical notes will be added as they become public.
