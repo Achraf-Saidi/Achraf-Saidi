@@ -25,3 +25,9 @@ At UCLouvain, I contribute to teaching in **statistics** and **R programming**.
 
 - [Personal website](https://achraf-saidi.github.io)
 - [LinkedIn](https://be.linkedin.com/in/achraf-saidi-b141b8247)
+
+
+### Contact
+
+- Academic, research or teaching: **mohamed.a.saidi@uclouvain.be**
+- Data / ML / AI projects and consulting: **achraf@novalisai.com**
