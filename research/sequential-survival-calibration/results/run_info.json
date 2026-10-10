@@ -1,0 +1,8 @@
+{
+  "seed": 20261010,
+  "runs_per_scenario": 1500,
+  "patients_per_run": 600,
+  "alpha": 0.05,
+  "hypothesis": "correct full predictive CDF; independent censoring",
+  "monitoring_note": "patient index assumes completed observations, not real calendar time"
+}
